@@ -1,3 +1,8 @@
+header{
+    background-color: coral;
+}
+
+
 .card {
     width: 18rem;
     margin-top: 10px;
@@ -15,5 +20,7 @@ p{
     color: azure;
     padding: 10px;
     border-radius: 5px;
-    width: 250px;
+}
+#flex{
+    display: flex;
 }
